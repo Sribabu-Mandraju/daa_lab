@@ -62,5 +62,5 @@ def print_board(board, n):
         print()
 
 # Example usage
-n = 8  # Change n to the size of the board you want
+n = 4  # Change n to the size of the board you want
 solve_nqueens(n)
